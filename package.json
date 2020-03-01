@@ -11,8 +11,9 @@
     "@angular/platform-browser-dynamic": "8.2.14",
     "@angular/router": "8.2.14",
     "@editorjs/editorjs": "2.16.1",
-    "@editorjs/header": "^2.4.0",
-    "@editorjs/list": "^1.4.0",
+    "@editorjs/header": "2.4.0",
+    "@editorjs/list": "1.4.0",
+    "@editorjs/raw": "^2.1.1",
     "core-js": "2.6.11",
     "rxjs": "6.5.4",
     "zone.js": "0.9.1"
